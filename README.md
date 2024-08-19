@@ -1,5 +1,5 @@
            PhantomStrain README           
-======================================================
+=============================================
 
 Welcome to the PhantomStrain project! This project aims to demonstrate various malicious activities that can be performed on Windows systems. It consists of a server-side application and several client-side applications designed to carry out different malicious tasks.
 
@@ -76,4 +76,4 @@ This project is protected by the GNU Affero General Public License v3.0.
 For more information or any question email: HellwareStudios06@gmail.com
 I will try to answer and help the best I can during my free time.
 
-======================================================
+=============================================
